@@ -4,13 +4,11 @@
 This project analyzes public transportation data in Chicago to uncover patterns that can help Zuber, a new ride-hailing startup, compete effectively in the market. The main goals are to identify popular destinations, understand market leaders, and evaluate the impact of weather conditions on trip duration. The analysis involves cleaning, exploring, visualizing data, and testing statistical hypotheses to support strategic decisions.
 
 ## 🛠️ Technologies and Methods
-Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)
-
-SQL-style joins and data cleaning for three datasets
+Python (Pandas, NumPy, SciPy, Matplotlib)
 
 Descriptive analytics: trip counts, company rankings, neighborhood popularity
 
-Data visualization: bar charts and comparative graphs to support insights
+Data visualization: bar charts, histogram and comparative graphs to support insights
 
 **Hypothesis testing:**
 
